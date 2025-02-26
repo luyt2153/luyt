@@ -11,7 +11,7 @@ On this website, I’m sharing some of my cool data projects, including fun Data
 ### If you want to know more about me
 <br>
 
-Please click [*About*](about)
+Please click [*About*](https://luyt2153.github.io/luyt/about.html)
 
 <br>
 <br>
