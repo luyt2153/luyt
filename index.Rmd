@@ -1,24 +1,29 @@
 ---
-title: "Look at this!"
+title: "Data is Lyt, Knowledge is Lit!"
 ---
+<br>
 
-# I have a webpage!
+### Hey! I am Lu YingTing. 
+<br>
+On this website, I’m sharing some of my cool data projects, including fun Data Visualization tools and awesome Machine Learning predictions. Check out the links below to learn more!
+<br>
 
-And I can put all kinds of stuff on it!
+### If you want to know more about me
+<br>
 
-Here we've got some general setup for your webpage. 
+Please click [*About*](about)
 
-# Here is a heading
+<br>
+<br>
 
-[This links to other pages!](about)
+### If you want to find some interesting projects 
 
+<br>
 
+#### Data Visualization Projects
 
-## Advancing your skills
+There are projects in different data visualization tools, incluing plotly, tableau and shiny.
 
-You can take what we've done here and do additional adaptations. 
+<br>
 
-For example, you can explore other formats, [such as prettydoc](https://prettydoc.statr.me/) as it will give you greater customization. 
-
-### Custom CSS
-If you're looking to REALLY customize, you can add a custom.css file. You can see there is an example css file here that can make some changes. To add them, you can add `css: custom.css', indenting it under 'html' in [the _site.yml](_site.yml) file. 
+#### Machine Learning Prediction Projects

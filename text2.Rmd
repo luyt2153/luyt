@@ -1,10 +1,30 @@
-# Including Tableau and Shiny
+## Tableau Project
+<iframe src="https://public.tableau.com/app/profile/yingting.lu/viz/AS4_17395049172950/TheSecretofBabyNamingWhichPlacesHavetheLeastCreativeParents?publish=yes" height="900px"></iframe>
 
-## Tableau
-<iframe src="https://public.tableau.com/views/macs40700/BabyNamesDashboard?:showVizHome=no&:embed=true"
- width="980px" height="900px"></iframe>
+## Background and Data Description
+The data for this analysis was obtained from the Social Security Administration (SSA) website. It contains names that were used at least five times in the United States between 1910 and 2023. This dataset allows us to explore trends and changes in how newborn babies are named over time.
 
-## Shiny
+The table below shows the variables in the dataset:
+```{r variable-table, echo=FALSE}
 
+variable_table <- data.frame(
+  Variable = c("State","Sex","Year","Name","Count"),
+  Description = c(
+    "51 states of the United States, represented in 2-letter codes",
+    "Gender of the baby using the name",
+    "Year the name was used",
+    "Name of the baby",
+    "Number of babies using the name"))
 
-<iframe src="https://jclip.shinyapps.io/baby-names/" style="border: 1px solid #AAA; width: 800px; height: 760px"></iframe>
+knitr::kable(variable_table)
+```
+
+## The Research Question and Commentary
+For this dataset, I am interested in examining changes in the number of names over time. Are people creating more new names as time goes on? How common is it for newborns to have the same name? Since the number of births varies each year, my intuition suggests that a higher number of newborns might lead to a greater variety of names.
+
+To explore this, I first plotted the number of newborn names over time. The trend suggests that the number of names is indeed increasing, but it does not provide further insights on its own.
+
+To better understand the degree of name repetition among newborns, I calculated the total number of newborns each year and converted these two values into percentages for comparison. I will refer to this measure as "Name Diversity" in the following discussion.
+ 
+ 
+

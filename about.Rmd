@@ -1,1 +1,18 @@
-# You can talk about yourself here!
+## About Me
+
+```{r, out.width="159.63px", out.height="239.33px",echo=FALSE}
+
+knitr::include_graphics("profile.jpg")
+```
+
+
+
+Hi, I'm YingTing, a second-year master's student in Statistics at the University of Chicago. My academic journey has been driven by a strong passion for data science, machine learning and statistical modeling. I enjoy exploring the theoretical foundations of machine learning while applying various techniques to real-world problems.
+
+Before joining UChicago, I worked as a data analyst at Lenovo, where I specialized in SQL, Power BI. Collaborating with cross-functional teams gave me valuable insights into strategic and creative problem-solving.
+
+Currently, I am focused on analyzing financial data using machine learning models to uncover meaningful patterns. I am always eager to take on new challenges and expand my knowledge in data science.
+
+Outside of work and studies, I love traveling and experiencing different cultures, which enhances my adaptability and teamwork skills.
+
+Feel free to connect with me! I’d love to exchange ideas and collaborate on exciting data projects!

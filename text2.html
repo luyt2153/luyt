@@ -340,7 +340,10 @@ div.tocify {
       <a href="text.html">Plotly</a>
     </li>
     <li>
-      <a href="text2.html">Shiny/Tableau</a>
+      <a href="text2.html">Tableau</a>
+    </li>
+    <li>
+      <a href="sihiny.html">Shiny</a>
     </li>
   </ul>
 </li>
@@ -348,7 +351,7 @@ div.tocify {
   <a href="about.html">About</a>
 </li>
 <li>
-  <a href="http://github.com/">
+  <a href="https://github.com/luyt2153">
     <span class="fa fa-github fa-lg"></span>
      
   </a>
@@ -366,18 +369,69 @@ div.tocify {
 </div>
 
 
-<div id="including-tableau-and-shiny" class="section level1">
-<h1>Including Tableau and Shiny</h1>
-<div id="tableau" class="section level2">
-<h2>Tableau</h2>
-<iframe src="https://public.tableau.com/views/macs40700/BabyNamesDashboard?:showVizHome=no&amp;:embed=true" width="980px" height="900px">
+<div id="tableau-project" class="section level2">
+<h2>Tableau Project</h2>
+<iframe src="https://public.tableau.com/app/profile/yingting.lu/viz/AS4_17395049172950/TheSecretofBabyNamingWhichPlacesHavetheLeastCreativeParents?publish=yes" height="900px">
 </iframe>
 </div>
-<div id="shiny" class="section level2">
-<h2>Shiny</h2>
-<iframe src="https://jclip.shinyapps.io/baby-names/" style="border: 1px solid #AAA; width: 800px; height: 760px">
-</iframe>
+<div id="background-and-data-description" class="section level2">
+<h2>Background and Data Description</h2>
+<p>The data for this analysis was obtained from the Social Security
+Administration (SSA) website. It contains names that were used at least
+five times in the United States between 1910 and 2023. This dataset
+allows us to explore trends and changes in how newborn babies are named
+over time.</p>
+<p>The table below shows the variables in the dataset:</p>
+<table>
+<colgroup>
+<col width="12%" />
+<col width="87%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left">Variable</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">State</td>
+<td align="left">51 states of the United States, represented in 2-letter
+codes</td>
+</tr>
+<tr class="even">
+<td align="left">Sex</td>
+<td align="left">Gender of the baby using the name</td>
+</tr>
+<tr class="odd">
+<td align="left">Year</td>
+<td align="left">Year the name was used</td>
+</tr>
+<tr class="even">
+<td align="left">Name</td>
+<td align="left">Name of the baby</td>
+</tr>
+<tr class="odd">
+<td align="left">Count</td>
+<td align="left">Number of babies using the name</td>
+</tr>
+</tbody>
+</table>
 </div>
+<div id="the-research-question-and-commentary" class="section level2">
+<h2>The Research Question and Commentary</h2>
+<p>For this dataset, I am interested in examining changes in the number
+of names over time. Are people creating more new names as time goes on?
+How common is it for newborns to have the same name? Since the number of
+births varies each year, my intuition suggests that a higher number of
+newborns might lead to a greater variety of names.</p>
+<p>To explore this, I first plotted the number of newborn names over
+time. The trend suggests that the number of names is indeed increasing,
+but it does not provide further insights on its own.</p>
+<p>To better understand the degree of name repetition among newborns, I
+calculated the total number of newborns each year and converted these
+two values into percentages for comparison. I will refer to this measure
+as “Name Diversity” in the following discussion.</p>
 </div>
 
 
