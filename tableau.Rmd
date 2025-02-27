@@ -1,5 +1,7 @@
 ## Tableau Project
-<iframe src="https://public.tableau.com/app/profile/yingting.lu/viz/AS4_17395049172950/TheSecretofBabyNamingWhichPlacesHavetheLeastCreativeParents?publish=yes" height="900px"></iframe>
+<iframe src="https://public.tableau.com/views/AS4_17395049172950/TheSecretofBabyNamingWhichPlacesHavetheLeastCreativeParents?:showVizHome=no&:embed=true"
+        width="800px" height="600px" frameborder="0"></iframe>
+
 
 ## Background and Data Description
 The data for this analysis was obtained from the Social Security Administration (SSA) website. It contains names that were used at least five times in the United States between 1910 and 2023. This dataset allows us to explore trends and changes in how newborn babies are named over time.

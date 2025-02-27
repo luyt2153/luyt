@@ -8,7 +8,7 @@ navbar:
         - text: 'Plotly'
           href: text.html
         - text: 'Tableau'
-          href: text2.html
+          href: tableau.html
         - text: 'Shiny'
           href: sihiny.html
         
