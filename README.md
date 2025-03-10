@@ -2,7 +2,7 @@
 
 ### Master’s student in Statistics @ UChicago
 
-### 🚀 Passionate about Data Analytics and Machine Learning techniques in the era of Big Data. 
+### 🚀 Passionate about Data Analytics and Machine Learning techniques  
 
 ### 💻 Former Data Analyst at Lenovo
 
