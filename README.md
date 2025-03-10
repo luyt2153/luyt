@@ -1,6 +1,6 @@
 # Hi! I am YT Lu.
 
-### Master’s student in Statistics @ UChicago
+### 🎓 Master’s student in Statistics @ UChicago
 
 ### 🚀 Passionate about Data Analytics and Machine Learning techniques  
 
