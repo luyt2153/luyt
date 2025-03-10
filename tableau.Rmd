@@ -27,6 +27,10 @@ For this dataset, I am interested in examining changes in the number of names ov
 To explore this, I first plotted the number of newborn names over time. The trend suggests that the number of names is indeed increasing, but it does not provide further insights on its own.
 
 To better understand the degree of name repetition among newborns, I calculated the total number of newborns each year and converted these two values into percentages for comparison. I will refer to this measure as "Name Diversity" in the following discussion.
+
+From the plot on the top left, we can see that male names were particularly diverse in 1910, with 4 out of every 1,000 individuals sharing the same name. In contrast, the highest repetition rate for female names occurred in 2023, where approximately 4 out of every 1,000 individuals had the same name. **While the peak of name diversity differs significantly between genders, the lowest point is relatively close**: for males, the lowest name diversity occurred in 1957 at 0.0855%, while for females, it happened in 1954 at 0.1258%. Another interesting observation is that **the difference in name diversity between genders has been increasing since 1934, suggesting that parents have put more thought into naming their daughters since then.**
  
- 
+From the plot on the top right, we can see that **geographical factors affect name diversity**. Apart from California, the West Coast generally exhibits higher name diversity, whereas the Great Lakes region has consistently shown lower name diversity.
+
+From the plot at the bottom, we can see the top three names for both boys and girls in regions with lower name diversity (including California and several states in the Great Lakes region). The percentage of these popular names has slightly declined, indicating that the dominance of these "popular names" is no longer as strong. This could be due to the emergence of more new names or a more balanced distribution of name popularity. In conclusion, compared to the past, the proportion of people sharing the same name has decreased.
 
