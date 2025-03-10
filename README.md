@@ -1,10 +1,12 @@
 # Hi! I am YT Lu.
 
-## Master’s student in Statistics @ UChicago
+### Master’s student in Statistics @ UChicago
 
-## Former Data Analyst at Lenovo
+### 🚀 Passionate about Data Analytics and Machine Learning techniques in the era of Big Data. 
 
-## Former AIESECer
+### 💻 Former Data Analyst at Lenovo
+
+### 🌍 Former AIESECer 
 
 
 
