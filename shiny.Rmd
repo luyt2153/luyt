@@ -1,0 +1,17 @@
+## Shiny
+
+<iframe src="https://luyt.shinyapps.io/tourism_and_economy-luyt2153/" style="border: 1px solid #AAA; width: 800px; height: 760px"></iframe>
+
+
+## Background and Data Description
+In today’s society, when worldwide ties are strong, people from many countries communicate more often. For many people, visiting abroad is an excellent way to get away during vacation time. However, in the past, traveling internationally was not easy or inexpensive. 
+
+After data wrangling, there are 14 variables and 1377 columns in the cleaned dataset.
+
+
+## The Research Question and Commentary
+For this project, I want to explore the relationship between international tourism and a country’s economy. Specifically, I will examine the correlation between GDP and tourism-related data to identify countries that heavily rely on tourism.
+
+I also want to analyze how the tourism surplus or deficit affects GDP growth. Additionally, I will investigate whether the gap between the number of arrivals and departures significantly impacts the tourism surplus.
+
+By understanding these patterns, I can identify major tourist destinations and provide data-driven recommendations. For example, if a country has a high number of international travelers but a low tourism surplus, it may need to assess visitor spending habits and explore ways to increase tourist expenditure to boost its economy.
